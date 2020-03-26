@@ -1,0 +1,34 @@
+body{
+    font-family: 'Ibarra Real Nova', serif;
+}
+.logo{
+    width: 80px;
+}
+.container3,
+.top-row{
+    margin: 30px;
+}
+.nothing{
+    width: 100%;
+}
+.border{
+    width: 97%;
+}
+.small-images{
+    width: 200px;
+    height: 120px;
+     
+}
+.text{
+    text-align: right;
+}
+.top-row{
+    margin-bottom: -10px;
+}
+.container{
+    width: 70%;
+}
+h2{
+    margin-top: 10px;
+   
+}
